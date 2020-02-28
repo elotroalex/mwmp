@@ -6,7 +6,9 @@ permalink: /about/
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu tellus volutpat, suscipit elit ut, tincidunt nisi. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Nullam eu tellus](https://www.researchgate.net/journal/1389-0166_Archival_Science) volutpat, suscipit elit ut, tincidunt nisi. [f1]
+
+[f1]: this is a footnote
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
 

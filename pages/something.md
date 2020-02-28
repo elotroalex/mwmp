@@ -3,3 +3,5 @@
 tion’s courage in the midst of attack; the well-connected corporate lawyer who greased the wheels for a parade of special interests.
 
 ![some_pic](https://i.imgur.com/345tyAd.png)
+
+![wax_workflow](https://github.com/elotroalex/mwmp/blob/master/img/wax_workflow.jpg)

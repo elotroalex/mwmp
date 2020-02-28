@@ -1,6 +1,6 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor odio quis urna lacinia, nec finibus diam venenatis. Cras quis urna id nibh sodales malesuada. Praesent semper consequat risus sit amet pulvinar. Fusce ornare porta sapien fringilla gravida. Vivamus et urna quis leo scelerisque tempus sit amet nec quam. Suspendisse tempus ultricies metus eu lobortis. Mauris finibus interdum tellus, id convallis ante ultrices ut. Ut accumsan tincidunt est a dapibus. In diam nulla, cursus non imperdiet at, aliquam sit amet eros. In interdum sagittis ante sed vulputate. Nulla efficitur arcu ac tortor lobortis ultricies. In convallis orci ac lacus lacinia, sit amet tristique neque finibus. Etiam blandit mauris eget risus elementum, at vulputate mi dapibus. Donec vestibulum sapien nec ornare cursus.
 
-![random cat picture](https://i.imgur.com/IfayALw.jpg)
+![picture of wax logo](https://github.com/elotroalex/mwmp/blob/master/img/logo.png)
 
 Curabitur vulputate nec elit ut interdum. In cursus dui nisi, vel varius nisl pellentesque non. Donec ac tellus eleifend, sodales justo ac, efficitur arcu. Fusce eget nisi quis quam sollicitudin sagittis vitae et dui. Fusce eu elit venenatis, iaculis risus ac, faucibus libero. Morbi nec porta diam. Suspendisse non erat vel ipsum ultricies faucibus non et tortor. Aenean nec finibus leo. Pellentesque sit amet convallis mauris. Integer volutpat, enim sit amet mattis vestibulum, arcu velit pretium lectus, quis ullamcorper magna lectus vel lectus. Curabitur est dolor, congue in elementum interdum, egestas vitae lectus.
 

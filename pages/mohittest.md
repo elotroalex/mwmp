@@ -14,12 +14,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Nullam eu tellus](http
 
 >Quisque nec justo at magna scelerisque dictum. Donec quis pharetra odio. Curabitur in pretium metus. Pellentesque ut elit viverra justo malesuada tempus eget vel risus. Integer fermentum vel est et aliquet. Curabitur consectetur dictum viverra. Curabitur fringilla rutrum lorem, a porttitor nulla efficitur ut. Mauris quis lorem et orci accumsan gravida. Nunc congue, magna eu feugiat eleifend, elit velit laoreet mauris, eu interdum nunc diam vel ex. Praesent elementum eros id mattis viverra. Aenean at ante at orci ornare hendrerit. 
 
-1.Lorem ipsum dolor sit amet
-2.Lorem ipsum dolor sit amet
-3.Lorem ipsum dolor sit amet
-  *Lorem ipsum dolor sit amet
-  *Lorem ipsum dolor sit amet
+1. Lorem ipsum dolor sit amet
+2. Lorem ipsum dolor sit amet
+3. Lorem ipsum dolor sit amet
+  * Lorem ipsum dolor sit amet
+  * Lorem ipsum dolor sit amet
 
 ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+### Lorem ipsum dolor sit amet
 
 ![Muslim World Manuscript](https://blogs.cul.columbia.edu/global-studies/files/2019/05/mwm-image-300x294.jpg)
